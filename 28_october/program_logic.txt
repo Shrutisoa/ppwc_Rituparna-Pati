@@ -1,0 +1,29 @@
+Step (a): Multiplying the Product
+1. Input: User inputs item = 4.
+2. Logic:
+Check if item is non-zero: 4 != 0 (true).
+Multiply product (initially 1) by item: product = 1 * 4 = 4.
+3. Output: Print Product: 4.
+Step (b): Absolute Difference
+1. Input: User inputs x = 8 and y = 3.
+2. Logic:
+Compare x and y: Since 8 > 3, calculate 8 - 3.
+Update y: y = 8 - 3 = 5.
+3. Output: Print Absolute difference (stored in y): 5.
+Step (c): Counting and Summing Based on x
+1. Input: User inputs x = -2.
+2. Logic:
+Check if x is 0: -2 == 0 (false).
+Check if x is negative: -2 < 0 (true).
+Update minus_sum: minus_sum = 0 + (-2) = -2.
+3. Output: Print:
+Zero count: 0 (remains unchanged).
+Minus sum: -2.
+Plus sum: 0 (remains unchanged).
+Final Output
+After all steps, the output would look like this:
+Product: 4
+Absolute difference (stored in y): 5
+Zero count: 0
+Minus sum: -2
+Plus sum: 0
